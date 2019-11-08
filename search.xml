@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2019/11/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <span class="external-link"><a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a><i class="fa fa-external-link"></i></span>! This is your very first post. Check <span class="external-link"><a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a><i class="fa fa-external-link"></i></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="external-link"><a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a><i class="fa fa-external-link"></i></span> or you can ask me on <span class="external-link"><a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a><i class="fa fa-external-link"></i></span>.</p>
+<h2 id="Hello-hexo"><span class="heading-link">Hello hexo</span></h2><h2 id="Quick-Start"><span class="heading-link">Quick Start</span></h2><h3 id="Create-a-new-post"><span class="heading-link">Create a new post</span></h3><figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></div></figure>
+
+<p>More info: <span class="external-link"><a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a><i class="fa fa-external-link"></i></span></p>
+<h3 id="Run-server"><span class="heading-link">Run server</span></h3><figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></div></figure>
+
+<p>More info: <span class="external-link"><a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a><i class="fa fa-external-link"></i></span></p>
+<h3 id="Generate-static-files"><span class="heading-link">Generate static files</span></h3><figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></div></figure>
+
+<p>More info: <span class="external-link"><a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a><i class="fa fa-external-link"></i></span></p>
+<h3 id="Deploy-to-remote-sites"><span class="heading-link">Deploy to remote sites</span></h3><figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></div></figure>
+
+<p>More info: <span class="external-link"><a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a><i class="fa fa-external-link"></i></span></p>
+]]></content>
+  </entry>
+</search>
