@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo加载本地图片</title>
+    <url>/2019/11/11/Hexo%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD/</url>
+    <content><![CDATA[<p>1、在根目录下加载</p>
+<figure class="highlight plain"><div class="table-container"><table><tr><td class="code"><pre><span class="line">npm install hexo-asset-image --save</span><br></pre></td></tr></table></div></figure>
+<p>2、执行 hexo n “文件名”，会在 source/_posts 下会有一个同名文件夹，把需要加载的图片添加进去。<br>3、执行</p>
+<figure class="highlight plain"><div class="table-container"><table><tr><td class="code"><pre><span class="line">hexo cl &amp;&amp; hexo g &amp;&amp; hexo s</span><br></pre></td></tr></table></div></figure>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>文字背景</title>
     <url>/2019/11/11/%E6%96%87%E5%AD%97%E8%83%8C%E6%99%AF/</url>
     <content><![CDATA[<figure class="highlight plain"><div class="table-container"><table><tr><td class="code"><pre><span class="line">body&#123;</span><br><span class="line">	background-color: #333;</span><br><span class="line">&#125;</span><br><span class="line">h1&#123;</span><br><span class="line">	font-size: 200px;</span><br><span class="line">	position: absolute;</span><br><span class="line">	background:url(F:/HTML/HTML/img/02.jpg) 50% 50%;</span><br><span class="line">	-webkit-text-fill-color: transparent;</span><br><span class="line">	-webkit-background-clip: text;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></div></figure>
-<p>效果图：<br><img src="/2019/11/11/%E6%96%87%E5%AD%97%E8%83%8C%E6%99%AF/1.PNG" alt="bjg"></p>
+<p>效果图：<br><img src="/2019/11/11/%E6%96%87%E5%AD%97%E8%83%8C%E6%99%AF/1.PNG" alt></p>
 ]]></content>
+      <categories>
+        <category>html</category>
+      </categories>
+      <tags>
+        <tag>html</tag>
+      </tags>
   </entry>
 </search>
