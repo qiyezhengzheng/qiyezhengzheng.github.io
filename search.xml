@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>windows永久激活</title>
+    <url>/2019/11/12/windows%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB/</url>
+    <content><![CDATA[<p>1.打开链接并解压：</p>
+<figure class="highlight plain"><div class="table-container"><table><tr><td class="code"><pre><span class="line">链接：https://pan.baidu.com/s/17aiMi0QgpYhzUH1bmKkRCg </span><br><span class="line">提取码：8qlt</span><br></pre></td></tr></table></div></figure>
+<p>2.以管理员的身份运行Activation.cmd文件<br><img src="/2019/11/12/windows%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB/1.PNG" alt><br>3.按任意键开始，再输入1.<br><img src="/2019/11/12/windows%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB/2.PNG" alt><br>4.win+r 再输入slmgr.vbs -xpr，可查看是否永久激活<br><img src="/2019/11/12/windows%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB/3.PNG" alt></p>
+]]></content>
+      <categories>
+        <category>windows</category>
+      </categories>
+      <tags>
+        <tag>windows</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo加载本地图片</title>
     <url>/2019/11/11/Hexo%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD/</url>
     <content><![CDATA[<p>1、在根目录下加载</p>
